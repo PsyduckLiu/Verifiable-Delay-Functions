@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Collaborative Verifiable Delay Functions](README.md)
+* [README](README.md)
+* [Collaborative Verifiable Delay Functions](<README (1).md>)
 * [Continuous Verifiable Delay Functions](continuous-verifiable-delay-functions.md)
-* [README](readme.md)
