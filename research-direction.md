@@ -17,7 +17,7 @@ description: VDF(Boneh 2018)
 ## hidden order group VDFs
 
 1. 每一轮结果都可以验证的Continuous VDF(Ephraim 2020) —— 基于Simple VDF
-2. 对时间复杂度的严格分析(Döttling 2020) —— 基于Efficient VDF和Simple VDF
+2. 对时间复杂度严格分析的Tight VDF(Döttling 2020) —— 基于Efficient VDF和Simple VDF
 3. 分析Fiat-Shamir transform在VDF中的应用(Lombardi 2020) —— 基于Simple VDF
 4. 分析low order assumption在虚二次域上的安全性(Belabas 2020) —— 基于Simple VDF
 5. 批量验证VDF结果的设计(Rotem 2021) —— 基于Simple VDF
@@ -87,4 +87,14 @@ Chavez-Saab J, Henríquez F R, Tibouchi M. Verifiable Isogeny Walks: Towards an 
 Loe A F, Medley L, O’Connell C, et al. A Practical Verifiable Delay Function and Delay Encryption Scheme\[J]. Cryptology ePrint Archive, 2021.
 
 Yang Z, Qin B, Wu Q, et al. Experimental Comparisons of Verifiable Delay Functions\[C]//International Conference on Information and Communications Security. Springer, Cham, 2020: 510-527.
+
+Sreedhar K, Horowitz M, Torng C. A Fast Large-Integer Extended GCD Algorithm and Hardware Design for Verifiable Delay Functions and Modular Inversion\[J]. 2022.
+
+Zhu D, Song Y, Tian J, et al. An Efficient Accelerator of the Squaring for the Verifiable Delay Function Over a Class Group\[C]//2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS). IEEE, 2020: 137-140.
+
+Seres I A, Burcsi P. A note on low order assumptions in RSA groups\[J]. Rad Hrvatske akademije znanosti i umjetnosti: Matematičke znanosti, 2021 (546= 25): 15-31.
+
+Dobson S, Galbraith S, Smith B. Trustless groups of unknown order with hyperelliptic curves\[J]. 2020.
+
+
 
