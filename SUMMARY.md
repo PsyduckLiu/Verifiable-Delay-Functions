@@ -6,3 +6,4 @@
 * [Continuous Verifiable Delay Functions](continuous-verifiable-delay-functions.md)
 * [Need to know](guan-zhu-dian.md)
 * [Meetings](meetings.md)
+* [Sloth](sloth.md)
